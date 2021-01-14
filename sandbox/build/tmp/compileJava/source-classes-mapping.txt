@@ -1,8 +1,10 @@
 ru/stqa/pft/sandbox/Triangle.java
  ru.stqa.pft.sandbox.Triangle
+ru/stqa/pft/sandbox/Square.java
+ ru.stqa.pft.sandbox.Square
 ru/stqa/pft/sandbox/MyFirstProgram.java
  ru.stqa.pft.sandbox.MyFirstProgram
 ru/stqa/pft/sandbox/Rectangle.java
  ru.stqa.pft.sandbox.Rectangle
-ru/stqa/pft/sandbox/Square.java
- ru.stqa.pft.sandbox.Square
+ru/stqa/pft/sandbox/Equation.java
+ ru.stqa.pft.sandbox.Equation
