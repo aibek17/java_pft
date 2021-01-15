@@ -90,7 +90,7 @@
       <recent name="ru.stqa.pft.addressbook" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.EquationTests">
+  <component name="RunManager" selected="Gradle.GroupModificationTests">
     <configuration name="MyFirstProgram" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.stqa.pft.sandbox.MyFirstProgram" />
       <module name="sandbox.main" />
@@ -195,10 +195,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.EquationTests" />
-        <item itemvalue="Gradle.GroupCreationTests" />
-        <item itemvalue="Gradle.GroupDeletionTests" />
         <item itemvalue="Gradle.GroupModificationTests" />
+        <item itemvalue="Gradle.GroupDeletionTests" />
+        <item itemvalue="Gradle.GroupCreationTests" />
+        <item itemvalue="Gradle.EquationTests" />
         <item itemvalue="Gradle.GroupCreationTests" />
       </list>
     </recent_temporary>
@@ -248,22 +248,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="122" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1610525129726" />
-    <state width="752" height="176" key="GridCell.Tab.0.bottom" timestamp="1610646544234">
+    <state width="753" height="174" key="GridCell.Tab.0.bottom" timestamp="1610682799242">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="752" height="176" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1610646544234" />
-    <state width="752" height="176" key="GridCell.Tab.0.center" timestamp="1610646544234">
+    <state width="753" height="174" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1610682799242" />
+    <state width="753" height="174" key="GridCell.Tab.0.center" timestamp="1610682799242">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="752" height="176" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1610646544234" />
-    <state width="752" height="176" key="GridCell.Tab.0.left" timestamp="1610646544234">
+    <state width="753" height="174" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1610682799242" />
+    <state width="753" height="174" key="GridCell.Tab.0.left" timestamp="1610682799242">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="752" height="176" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1610646544234" />
-    <state width="752" height="176" key="GridCell.Tab.0.right" timestamp="1610646544234">
+    <state width="753" height="174" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1610682799242" />
+    <state width="753" height="174" key="GridCell.Tab.0.right" timestamp="1610682799242">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="752" height="176" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1610646544234" />
+    <state width="753" height="174" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1610682799242" />
     <state width="668" height="242" key="GridCell.Tab.1.bottom" timestamp="1610296358243">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
